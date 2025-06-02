@@ -3,16 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BajabongoTS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BajabongoTS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BajabongoTS&show_icons=true&theme=radical)
-- [BajabongoTS](https://github.com/BajabongoTS/BajabongoTS) - A personal project showcasing various coding techniques. Stars: 0
-- [Pixel-Games](https://github.com/BajabongoTS/Pixel-Games) - A collection of fun pixel art games. Stars: 0, Language: C++
-- [POPR](https://github.com/BajabongoTS/POPR) - A project related to CSS development. Stars: 0, Language: CSS
-- [CodeCamp2025](https://github.com/BajabongoTS/CodeCamp2025) - A code camp project aimed at learning and sharing knowledge. Stars: 0
-- [VideoGame](https://github.com/BajabongoTS/VideoGame) - An interactive game project built with TypeScript. Stars: 0
+
 
 ###
 
