@@ -8,7 +8,11 @@
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BajabongoTS&show_icons=true&theme=radical)
-
+- [BajabongoTS](https://github.com/BajabongoTS/BajabongoTS) - A personal project showcasing various coding techniques. Stars: 0
+- [Pixel-Games](https://github.com/BajabongoTS/Pixel-Games) - A collection of fun pixel art games. Stars: 0, Language: C++
+- [POPR](https://github.com/BajabongoTS/POPR) - A project related to CSS development. Stars: 0, Language: CSS
+- [CodeCamp2025](https://github.com/BajabongoTS/CodeCamp2025) - A code camp project aimed at learning and sharing knowledge. Stars: 0
+- [VideoGame](https://github.com/BajabongoTS/VideoGame) - An interactive game project built with TypeScript. Stars: 0
 
 ###
 
