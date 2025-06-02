@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name Bajabongo</h2>
 
 ###
 
@@ -43,7 +43,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="42" height="42" /></a></p>
 
+- Pushed updates to [BajabongoTS](https://github.com/BajabongoTS/BajabongoTS) - 2025-06-02
+- Updated README for [Pixel-Games](https://github.com/BajabongoTS/Pixel-Games) - 2025-05-20
+- Committed changes to [POPR](https://github.com/BajabongoTS/POPR) - 2025-05-17
+- Pushed updates to [CodeCamp2025](https://github.com/BajabongoTS/CodeCamp2025) - 2025-05-07
+- Created a new repository [VideoGame](https://github.com/BajabongoTS/VideoGame) - 2025-04-03
+
 ###
+
 
 <br clear="both">
 
