@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Bajabongo</h2>
+<h2 align="left">Hi 👋! I'm Bajabongo</h2>
 
 ###
 
