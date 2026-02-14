@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bajabongo</h1>
 
-<hr>
-
 <h3 align="center">
   🚀 16-year-old programming student at Technischools, currently in 3rd year, passionate about creating web and mobile applications, experienced in building games and software projects, and familiar with graphic design using Adobe tools.
 </h3>
