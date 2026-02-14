@@ -102,7 +102,14 @@
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BajabongoTS&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BajabongoTS&radius=16&theme=github-dark&area=true&order=5&bg_color=141414&color=FFFF&title_color=FF9400&line=FF9400&point=FF6600&area_color=FF9400&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+<br>
 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7400"  />
