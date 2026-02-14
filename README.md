@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bajabongo</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Bajabongo&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7400"  />
+</div>
+
+###
 
 <h3 align="center">
   🚀 16-year-old programming student at Technischools, currently in 3rd year, passionate about creating web and mobile applications, experienced in building games and software projects, and familiar with graphic design using Adobe tools.
@@ -93,4 +97,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7400"  />
 </div>
