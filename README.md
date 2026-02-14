@@ -90,8 +90,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
 </div>
-
-<h3 align="left">🌐 Deployment / Other</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-</div>
