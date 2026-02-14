@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bajabongo</h1>
+
+<hr>
+
 <h3 align="center">
   🚀 16-year-old programming student at Technischools, currently in 3rd year, passionate about creating web and mobile applications, experienced in building games and software projects, and familiar with graphic design using Adobe tools.
 </h3>
-
-- 🔭 I’m currently working on **FlameHabit** (work in progress).
-
-- 🌱 Currently exploring mobile development with **Flutter**.
-
-- 📫 How to reach me: **konradklautzsch@gmail.com**
+<div align="center">
+  <p>🔭 I’m currently working on **FlameHabit** (work in progress).</p>
+  <p>🌱 Currently exploring mobile development with **Flutter**.</p>
+  <p>📫 How to reach me: **konradklautzsch@gmail.com**</p>
+</div>
 
 <h3 align="center">💻 Frontend</h3>
 <div align="center">
