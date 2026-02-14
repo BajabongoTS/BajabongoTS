@@ -102,6 +102,8 @@
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
 </div>
 
+<br><br>
+
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7400"  />
 </div>
