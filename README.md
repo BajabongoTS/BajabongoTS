@@ -10,12 +10,15 @@
 
 ###
 
+<br>
+
 <div align="center">
   <p>🔭 I’m currently working on <b>FlameHabit</b> (work in progress)</p>
   <p>🌱 Currently exploring mobile development with <b>Flutter</b></p>
   <p>📫 How to reach me: <b><a href="mailto:konradklautzsch@gmail.com">konradklautzsch@gmail.com</a></b></p>
 </div>
 
+<br>
 
 <h3 align="center">💻 Frontend</h3>
 <div align="center">
