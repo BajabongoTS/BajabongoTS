@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **konradklautzsch@gmail.com**
 
-<h3 align="left">💻 Frontend</h3>
+<h3 align="center">💻 Frontend</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 </div>
 
-<h3 align="left">📱 Mobile</h3>
+<h3 align="center">📱 Mobile</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
   <img width="12" />
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
 </div>
 
-<h3 align="left">🖥️ Backend & Databases</h3>
+<h3 align="center">🖥️ Backend & Databases</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
 </div>
 
-<h3 align="left">🖱️ Design</h3>
+<h3 align="center">🖱️ Design</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
 </div>
 
-<h3 align="left">⚙️ Tools & IDE</h3>
+<h3 align="center">⚙️ Tools & IDE</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
 
-<h3 align="left">🖥️ Programming Languages</h3>
+<h3 align="center">🖥️ Programming Languages</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
