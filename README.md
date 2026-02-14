@@ -19,6 +19,8 @@
 </div>
 
 <br>
+<hr>
+<br>
 
 <h3 align="center">💻 Frontend</h3>
 <div align="center">
@@ -103,6 +105,7 @@
 </div>
 
 <br>
+<hr>
 <br>
 
 <div align="center">
