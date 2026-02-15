@@ -21,6 +21,7 @@
 <br>
 <hr>
 
+
 <h3 align="center">💻 Frontend</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
