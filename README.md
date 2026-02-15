@@ -109,6 +109,7 @@
 <br>
 
 <h3 align="center">📊 GitHub Stats</h3>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BajabongoTS&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
