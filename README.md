@@ -112,7 +112,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BajabongoTS&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=KonradKlautzsch&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KonradKlautzsch&radius=16&theme=github-dark&area=true&order=5&bg_color=141414&color=FFFF&title_color=FF9400&line=FF9400&point=FF6600&area_color=FF9400&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
